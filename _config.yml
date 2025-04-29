@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Heejun Cho"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Seoul, Korea"
   employer         : "Soongsil University"
   uri              : # URL
