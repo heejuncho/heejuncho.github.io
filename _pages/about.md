@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Heejun Cho is a research assistant in the Department of Operations Management of the Business School at Soongsil University. He received his M.S. degree from Soongsil University.
+
+He conducts empirical research in the field of operations management, with a focus on technology adoption, trust in information, and sustainable operations. His work particularly examines how emerging technologies enhance business operations and strategic decision-making within complex supply chain environments.
+
+Through rigorous analysis, he aims to advance understanding of the interplay between technology, information sharing, and sustainability in driving operational performance.
+
+
 
 A data-driven personal website
 ======
