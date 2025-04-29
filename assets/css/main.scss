@@ -41,3 +41,9 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+img {
+  pointer-events: none; /* Disables click/drag interactions */
+  -webkit-user-drag: none; /* Chrome/Safari */
+  user-drag: none; /* Standard syntax */
+}
