@@ -16,5 +16,4 @@ Through rigorous analysis, he aims to advance understanding of the interplay bet
 
 
 ## Work and research
-======
 Most of his previous work has focused on 
