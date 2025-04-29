@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Heejun Cho <br>"
+  name             : "Heejun Cho"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "  "
   location         : "Seoul, Korea"
   employer         : "Soongsil University"
   uri              : # URL
