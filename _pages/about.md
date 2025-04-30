@@ -16,4 +16,4 @@ Through rigorous analysis, he aims to advance understanding of the interplay bet
 
 
 ## Work and research
-Most of his previous work has focused on 
+Most of his previous work has focused on how digital transformation is reshaping operations management across multiple dimensions from technology adoption and supply chain collaboration to risk management and sustainability. His work contributes to understanding how organizations can leverage emerging technologies to enhance performance in an increasingly digital and AI-based business environment.
