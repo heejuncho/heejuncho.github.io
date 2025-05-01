@@ -3,7 +3,7 @@ title: "Research Methodologies"
 collection: teaching
 type: "Graduate course"
 venue: "Department of Operations Management, Business School at Soongsil University"
-date: 2023
+date: 2023-01-01
 ---
 
 [Course Summary] <br>
