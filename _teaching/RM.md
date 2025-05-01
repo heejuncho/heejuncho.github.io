@@ -4,6 +4,7 @@ collection: teaching
 type: "Graduate course"
 venue: "Department of Operations Management, Business School at Soongsil University"
 date: 2023-01-01
+excerpt: " "
 ---
 
 **Instructor:** Prof. Jongwoo Park
