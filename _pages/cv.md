@@ -33,29 +33,26 @@ Honor and Awards
 * Best Paper Award, 2022 IEEE/ACIS 7th International Conference on BCD, 2022
 * Scholarship for Excellent Grades, Kyonggi University, 2019 - 2020  
 
-Work Experience
+Research Experience
 ======
 * Researcher (2023 - Present)
-  * Soongsil University
-  * Duties includes: Updates and improvements to template
+  * Operations Management Research Center, Soongsil University
 
 * Research Assistant (2021 - 2023)
-  * Soongsil University
-  * Duties includes: Updates and improvements to template
+  * Department of Operations Management, Soongsil University
   * Supervisor: Prof. Jongwoo Park
 
-* Teaching Assistant (2023 - Present)
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Teaching Experience
+======
+* Research Methodologies (Fall 2023 - Present)
+* Operations Management (Fall 2023 - Fall 2024)
+* Management Science (Fall 2023 - Spring 2024)
 
+Work Experience
+======
 * Full-time Employment (2020 - 2021)
-  * A-One Customs & Trade Service
-    * Managing import-export data and logistics status
-    * Customs consulting
-    * Imports and exports scheduling
-    * Customs clearance and customs duty refund
-  
+  * A-One Customs & Trade Service (2020 - 2021)
+   
 Computer Skills
 ======
 * Research Analysis Tools
